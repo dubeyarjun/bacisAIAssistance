@@ -4,3 +4,4 @@ add the technologies use it python , react.js, nlp, llm, ollama, vecterdatabase,
 i work this project fully functionality work
 done all update
 again save data
+working now
